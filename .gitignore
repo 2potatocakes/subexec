@@ -1,0 +1,6 @@
+/pkg
+coverage
+*.gem
+.idea
+.yardoc
+.rvmrc
